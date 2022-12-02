@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POE_TASK_3.About" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.BundleConfig" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.RouteConfig" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.Contact" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Contact.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3._Default" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.DisplayModules" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QJAAAAAAAAAAAAAAgAAAAAIAIAAQAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>DisplayModules.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.Global" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.Reminder" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAgAAAAIAIAAQAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>Graph.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.LogIn" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAAAgAAAAAAAAAAAAIAAACAAAAAAAAAJAAAA=</HashCode>
+      <FileName>LogIn.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.Modules" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBUAAAAAoAAiCAAAgAAAAAAAIACAAAEAAABAAEoAAAQ=</HashCode>
+      <FileName>Modules.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.Register" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAAAgAAAAAAAAAAAAIAAAAAAAAAAAAAIgAEA=</HashCode>
+      <FileName>Register.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.SiteMaster" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.Site_Mobile" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAIAAAIAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Mobile.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POE_TASK_3.ViewSwitcher" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAIA=</HashCode>
+      <FileName>ViewSwitcher.ascx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomClassLibrary.Library" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAAAAAAAQAAAIAAAEABAAIAAAALAAEgAQAAAEA=</HashCode>
+      <FileName>D:\SCHOOL\Rosebank Work\Year 2\Semester 2\Programming 2B\Time Managment\CustomClassLibrary\Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
